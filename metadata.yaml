@@ -1,5 +1,5 @@
 _repo: Frank-Brown-Sea-Apprentice_61682
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Twidle, Arthur
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '8293'
     url: http://www.gutenberg.org/2009/agents/8293
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Twidle
+covers:
+- cover_type: archival
+  image_path: 61682-h/images/cover.jpg
 creator:
   author:
     agent_name: Bullen, Frank Thomas
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/616
     wikipedia: https://en.wikipedia.org/wiki/Frank_Thomas_Bullen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61682#Frank-Brown-Sea-Apprentice
 gutenberg_issued: '2020-03-27'
 gutenberg_type: Text
 identifiers:
